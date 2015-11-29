@@ -1,5 +1,6 @@
-import org.specs2.mutable.Specification     
+package ie.eoin.sample.concordance
 
+import org.specs2.mutable._
 
 class ConcordanceSpec extends Specification{
   "processLines" should {

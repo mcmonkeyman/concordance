@@ -1,4 +1,6 @@
-import collection.immutable.SortedMap
+package ie.eoin.sample.concordance
+
+import scala.collection.SortedMap
 import scala.io.Source
 
 object Concordance {

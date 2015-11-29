@@ -1,3 +1,5 @@
 target/
 *.un~*
 *.DS_Store
+.idea
+concordance.iml
