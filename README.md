@@ -1,16 +1,16 @@
-About
-=======
-Concordance generator for a text file. See http://en.wikipedia.org/wiki/Concordance_(publishing).
+# Concordance Calculator
+An executable to calculate the concordance for a text file. See http://en.wikipedia.org/wiki/Concordance_(publishing).
 
-Notes
-=======
-Assumes that each line is a sentence.
-
-Run 
-=======
+# Run 
+```
 sbt run
+```
 
-Test
-======
+# Test
+```
 sbt test
+```
+
+# Notes
+Assumes that each line is a sentence.
 
